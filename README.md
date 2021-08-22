@@ -13,3 +13,8 @@ On peut appliquer à l'automate les programme suivant :
  - Reconnaissance de mots
  - Langage complémentaire
  - Standardisation
+
+## Lancer le projet
+```bash
+python das.py
+```
